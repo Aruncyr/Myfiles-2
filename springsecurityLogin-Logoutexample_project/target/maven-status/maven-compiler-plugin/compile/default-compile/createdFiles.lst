@@ -1,0 +1,5 @@
+com\test\springsecurity3\AppConfig.class
+com\test\springsecurity3\SecurityWebApplicationInitializer.class
+com\test\springsecurity3\MvcWebApplicationInitializer.class
+com\test\springsecurity3\WebSecurityConfig.class
+com\test\springsecurity3\controller\HomeController.class
