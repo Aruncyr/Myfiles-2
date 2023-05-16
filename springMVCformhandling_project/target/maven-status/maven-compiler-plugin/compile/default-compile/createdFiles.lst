@@ -1,0 +1,15 @@
+com\test\springmvc\web\GlobalExceptionHandler.class
+com\test\springmvc\web\UserController.class
+com\test\springmvc\MyServletInitializer.class
+com\test\springmvc\user\dao\UserDaoImpl$UserMapper.class
+com\test\springmvc\user\dao\UserDaoImpl.class
+com\test\springmvc\user\validator\UserFormValidator.class
+com\test\springmvc\user\dao\UserDaoImpl$1.class
+com\test\springmvc\user\model\User.class
+com\test\springmvc\config\SpringCoreConfig.class
+com\test\springmvc\user\validator\EmailValidator.class
+com\test\springmvc\config\SpringWebConfig.class
+com\test\springmvc\user\service\UserService.class
+com\test\springmvc\user\DataUtils.class
+com\test\springmvc\user\dao\UserDao.class
+com\test\springmvc\user\service\UserServiceImpl.class

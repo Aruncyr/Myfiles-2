@@ -1,0 +1,12 @@
+INSERT INTO users (name, email, framework) VALUES ('Arun Reddy', 'ArunReddy@gmail.com', 'Spring MVC, GWT');
+INSERT INTO users (name, email, framework) VALUES ('alex', 'alexggcgc@yahoo.com', 'Spring MVC, GWT');
+INSERT INTO users (name, email, framework) VALUES ('joel', 'joel@gmail.com', 'Spring MVC, GWT');
+INSERT INTO users (name, email, framework) VALUES ('Ajay', 'ajay4432@gmail.com', 'Spring MVC, GWT');
+INSERT INTO users (name, email, framework) VALUES ('chaitanya', 'chaitanya87878@gmail.com', 'Spring MVC, GWT');
+INSERT INTO users (name, email, framework) VALUES ('Rahul', 'Rahul676@gmail.com', 'Spring MVC, GWT');
+INSERT INTO users (name, email, framework) VALUES ('Ramesh', 'Ramesh787@gmail.com', 'Spring MVC, GWT');
+INSERT INTO users (name, email, framework) VALUES ('Satish', 'Satish009@gmail.com', 'Spring MVC, GWT');
+INSERT INTO users (name, email, framework) VALUES ('Walter', 'Walter887@gmail.com', 'Spring MVC, GWT');
+INSERT INTO users (name, email, framework) VALUES ('Tom', 'Tom556@gmail.com', 'Spring MVC, GWT');
+INSERT INTO users (name, email, framework) VALUES ('Mike', 'Mike776@gmail.com', 'Spring MVC, GWT');
+INSERT INTO users (name, email, framework) VALUES ('Sindy', 'Sindy3345@gmail.com', 'Spring MVC, GWT');
